@@ -1,6 +1,19 @@
 # paper_reading
 
 ## 2023
+[23-08-10] [paper14]
+* Classifier-Free Diffusion Guidance
+* `2022` Google Research Brain Team
+* [paper](https://arxiv.org/abs/2207.12598)
+* `diffusion model`, `generative model`
+
+[23-08-10] [paper13]
+* GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
+* `2022-03` OpenAI
+* [paper](https://arxiv.org/pdf/2112.10741.pdf)
+* [code](https://github.com/openai/glide-text2im)
+* `diffusion model`, `generative model`, `multimodal`
+
 [23-08-09] [paper12]
 * DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
 * `CVPR 2023`
