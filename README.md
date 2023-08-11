@@ -1,6 +1,29 @@
 # paper_reading
 
 ## 2023
+[23-08-11] [paper17]
+* Palette: Image-to-Image Diffusion Models
+* `2022-05` Google Research Brain Team
+* [paper](https://arxiv.org/pdf/2111.05826.pdf)
+* [blog](https://iterative-refinement.github.io/palette/)
+* [code](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)
+* `diffusion model`, `generative model`, `img2img translation`
+
+[23-08-11] [paper16]
+* Prompt-to-Prompt Image Editing with Cross Attention 
+* `ICLR 2023` Google Research Brain Team
+* [paper](https://arxiv.org/pdf/2208.01626.pdf)
+* [blog](https://prompt-to-prompt.github.io/)
+* [code](https://github.com/google/prompt-to-prompt)
+* `diffusion model`, `generative model`, `image editing`
+  
+[23-08-11] [paper15]
+* Video Diffusion Models
+* `NIPs 2022` Google Research Brain Team
+* [paper](https://arxiv.org/abs/2207.12598)
+* [blog](https://video-diffusion.github.io/)
+* `diffusion model`, `generative model`, `video generation`
+
 [23-08-10] [paper14]
 * Classifier-Free Diffusion Guidance
 * `2022` Google Research Brain Team
@@ -49,3 +72,16 @@
 * [blog](https://xiuyuli.com/qdiffusion/)
 * `diffusion model`, `generative model`, `quantization`
 
+[23-08-04] [paper7]
+* ADM - Diffusion Models Beat GANs on Image Synthesis
+* `2021-06`
+* [paper](https://arxiv.org/pdf/2105.05233.pdf)
+* `diffusion model`, `generative model`,
+
+[23-08-04] [paper6]
+* ControlNet - Adding Conditional Control to Text-to-Image Diffusion Models
+* `2023-02` 
+* [paper](https://arxiv.org/pdf/2302.05543.pdf)
+* [code](https://github.com/lllyasviel/ControlNet)
+* Stanford
+* `diffusion model`, `generative model`
