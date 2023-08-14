@@ -64,7 +64,7 @@
 * [my tutorial](https://zhuanlan.zhihu.com/p/622119008)
 * `diffusion model`, `generative model`, `mutlimodal`
 
-[23-08-05] [paper8]
+[23-08-04] [paper8]
 * Q-Diffusion: Quantizing Diffusion Models
 * `ICCV 2023`
 * [paper](https://arxiv.org/pdf/2302.04304.pdf)
@@ -78,10 +78,25 @@
 * [paper](https://arxiv.org/pdf/2105.05233.pdf)
 * `diffusion model`, `generative model`,
 
-[23-08-04] [paper6]
+[23-08-03] [paper6]
 * ControlNet - Adding Conditional Control to Text-to-Image Diffusion Models
 * `2023-02` 
 * [paper](https://arxiv.org/pdf/2302.05543.pdf)
 * [code](https://github.com/lllyasviel/ControlNet)
 * Stanford
 * `diffusion model`, `generative model`
+
+  [23-08-02] [paper5]
+* A Survey on Generative Diffusion Models
+* `2022-12` 
+* [paper](https://arxiv.org/pdf/2209.02646.pdf)
+* CUHK, ZJU, MIT
+* `diffusion model`, `generative model`,  `survey`
+  
+
+  [23-08-02] [paper4]
+* Diffusion Models: A Comprehensive Survey of Methods and Applications
+* `2023-03` 
+* [paper](https://arxiv.org/pdf/2209.00796.pdf)
+* PKU, OpenAI, UCLA, CMU, Mila
+* `diffusion model`, `generative model`,  `survey`
