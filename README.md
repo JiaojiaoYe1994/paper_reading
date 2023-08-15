@@ -86,17 +86,23 @@
 * Stanford
 * `diffusion model`, `generative model`
 
-  [23-08-02] [paper5]
+[23-08-02] [paper5]
 * A Survey on Generative Diffusion Models
 * `2022-12` 
 * [paper](https://arxiv.org/pdf/2209.02646.pdf)
 * CUHK, ZJU, MIT
-* `diffusion model`, `generative model`,  `survey`
-  
+* `diffusion model`, `generative model`,  `survey`  
 
-  [23-08-02] [paper4]
+[23-08-02] [paper4]
 * Diffusion Models: A Comprehensive Survey of Methods and Applications
 * `2023-03` 
 * [paper](https://arxiv.org/pdf/2209.00796.pdf)
 * PKU, OpenAI, UCLA, CMU, Mila
 * `diffusion model`, `generative model`,  `survey`
+
+[23-08-01] [paper3]
+* DDIM - Denoising Implicit Models
+* `ICLR 2021` 
+* [paper](https://arxiv.org/pdf/2010.02502.pdf)
+* Stanford
+* `diffusion model`, `generative model`
