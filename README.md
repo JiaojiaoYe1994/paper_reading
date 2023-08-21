@@ -1,7 +1,14 @@
 # paper_reading
 
 ## 2023
-[23-08-11] [paper17]
+[23-08-21] 
+* Post-training Quantization on Diffusion Models
+* `CVPR 2023` Illinois Institute of Technology, Houmo AI, Tencent AI Lab, Cisco Research
+* [paper](https://arxiv.org/abs/2211.15736)
+* [code](https://github.com/42Shawn/PTQ4DM)
+* `diffusion model`, `generative model`, `quantization`
+  
+[23-08-14] [paper17]
 * Palette: Image-to-Image Diffusion Models
 * `2022-05` Google Research Brain Team
 * [paper](https://arxiv.org/pdf/2111.05826.pdf)
@@ -104,5 +111,16 @@
 * DDIM - Denoising Implicit Models
 * `ICLR 2021` 
 * [paper](https://arxiv.org/pdf/2010.02502.pdf)
+* [code](https://github.com/ermongroup/ddim)
 * Stanford
 * `diffusion model`, `generative model`
+
+[23-07-31] [paper2]
+* Denoising Diffusion Probabilistic Models
+* `NIPs 2020` 
+* [paper](https://arxiv.org/abs/2006.11239)
+* [blog](https://hojonathanho.github.io/diffusion/)
+* [code](https://github.com/hojonathanho/diffusion)
+* UC Berkeley
+* `diffusion model`, `generative model`
+
