@@ -5,6 +5,7 @@
 * Post-training Quantization on Diffusion Models
 * `CVPR 2023` Illinois Institute of Technology, Houmo AI, Tencent AI Lab, Cisco Research
 * [paper](https://arxiv.org/abs/2211.15736)
+* [blog](https://zhuanlan.zhihu.com/p/632960679)
 * [code](https://github.com/42Shawn/PTQ4DM)
 * `diffusion model`, `generative model`, `quantization`
   
