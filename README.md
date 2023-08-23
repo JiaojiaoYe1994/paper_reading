@@ -125,3 +125,12 @@
 * UC Berkeley
 * `diffusion model`, `generative model`
 
+[23-07-28] [paper1]
+* On the Opportunities and Risks of Foundation Models
+* `2022-07` 
+* [paper]([https://arxiv.org/abs/2006.11239](https://arxiv.org/abs/2108.07258))
+* [video](https://www.youtube.com/watch?v=ZshcPdavsdU)
+* [blog](https://crfm.stanford.edu/report.html)
+* Stanford University
+* `foundation model`
+
