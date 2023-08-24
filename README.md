@@ -1,7 +1,16 @@
 # paper_reading
 
 ## 2023
-[23-08-21] 
+
+[23-08-14] [paper19]
+* QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization
+* `ICLR 2022`
+* [paper](QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization)
+* [code](https://github.com/wimh966/QDrop)
+* Beihang University, 2SenseTime Researc
+* `quantizarion`, `computer vision`
+  
+[23-08-21] [paper18]
 * Post-training Quantization on Diffusion Models
 * `CVPR 2023` Illinois Institute of Technology, Houmo AI, Tencent AI Lab, Cisco Research
 * [paper](https://arxiv.org/abs/2211.15736)
