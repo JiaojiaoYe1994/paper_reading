@@ -2,10 +2,18 @@
 
 ## 2023
 
-[23-08-14] [paper19]
+[23-08-28] [paper20]
+* Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+* `NIPs 2022`
+* [paper](https://openreview.net/pdf?id=08Yk-n5l2Al)
+* [blog](https://imagen.research.google/)
+* Google Research, Brain Team
+* `diffusion model`, `computer vision`, `text-to-image generation`
+  
+[23-08-24] [paper19]
 * QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization
 * `ICLR 2022`
-* [paper](QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization)
+* [paper](https://arxiv.org/abs/2203.05740)
 * [code](https://github.com/wimh966/QDrop)
 * Beihang University, 2SenseTime Researc
 * `quantizarion`, `computer vision`
