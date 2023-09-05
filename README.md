@@ -2,6 +2,13 @@
 
 ## 2023
 
+[23-09-05] [paper21]
+* On Architectural Compression of Text-to-Image Diffusion Models
+* `2023-05`
+* [paper](https://arxiv.org/pdf/2305.15798.pdf)
+* Nota Inc., South Korea
+* `diffusion model`, `compression`, `text-to-image generation`
+  
 [23-08-28] [paper20]
 * Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
 * `NIPs 2022`
