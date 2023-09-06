@@ -1,7 +1,13 @@
 # paper_reading
 
 ## 2023
-
+[23-09-06] [paper22]
+* PTQD: Accurate Post-Training Quantization for Diffusion Models
+* `2023-05`
+* [paper](https://arxiv.org/pdf/2305.10657.pdf)
+* Zhejiang University, Monash University
+* `diffusion model`, `quantization`, `image generation`
+  
 [23-09-05] [paper21]
 * On Architectural Compression of Text-to-Image Diffusion Models
 * `2023-05`
