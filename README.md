@@ -1,6 +1,10 @@
 # paper_reading
 
 ## 2023
+[23-09-08] [paper23]
+* On the Opportunities and Risks of Foundation Models
+
+
 [23-09-06] [paper22]
 * PTQD: Accurate Post-Training Quantization for Diffusion Models
 * `2023-05`
