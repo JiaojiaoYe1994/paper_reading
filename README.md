@@ -1,6 +1,14 @@
 # paper_reading
 
 ## 2023
+[23-09-13] [paper24]
+* Champion-level drone racing using deep reinforcement learning
+* `2023 Nature`
+* [paper](https://www.nature.com/articles/s41586-023-06419-4)
+* [video](https://www.youtube.com/watch?v=fBiataDpGIo)
+* University of Zurich, Intel Labs, Munich, Germany. Intel Labs, Jackson, WY, USA
+* `Reinforcement Learning`, `Robotics`, `mobile robotics`
+
 [23-09-08] [paper23]
 * On the Opportunities and Risks of Foundation Models
 
