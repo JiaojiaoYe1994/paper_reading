@@ -2,6 +2,13 @@
 
 ## 2023
 [23-09-13] [paper24]
+* RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
+* `2023-09`
+* [paper](https://arxiv.org/abs/2309.00267)
+* Google Research
+* `reinforcement learning`, `large language model`, `fine-tuning`
+
+[23-09-13] [paper24]
 * Champion-level drone racing using deep reinforcement learning
 * `2023 Nature`
 * [paper](https://www.nature.com/articles/s41586-023-06419-4)
