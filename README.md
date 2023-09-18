@@ -1,7 +1,7 @@
 # paper_reading
 
 ## 2023
-[23-09-13] [paper24]
+[23-09-18] [paper25]
 * RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
 * `2023-09`
 * [paper](https://arxiv.org/abs/2309.00267)
