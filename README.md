@@ -1,6 +1,13 @@
 # paper_reading
 
 ## 2023
+[23-09-20] [paper26]
+* Fine-Tuning Language Models from Human Preferences
+* `2020-01`
+* [paper](https://arxiv.org/abs/1909.08593)
+* OpenAI
+* `reinforcement learning`, `large language model`, `fine-tuning`
+
 [23-09-18] [paper25]
 * RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
 * `2023-09`
