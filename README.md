@@ -5,6 +5,7 @@
 * Learning to summarize from human feedback
 * `NIPS 2020`
 * [paper](https://arxiv.org/abs/2009.01325)
+* [code](https://github.com/openai/summarize-from-feedback)
 * OpenAI
 * `reinforcement learning`, `fine tuning`, `language model`
 
