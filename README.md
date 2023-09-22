@@ -1,6 +1,13 @@
 # paper_reading
 
 ## 2023
+[2023-09-22][paper27]
+* Learning to summarize from human feedback
+* `NIPS 2020`
+* [paper](https://arxiv.org/abs/2009.01325)
+* OpenAI
+* `reinforcement learning`, `fine tuning`, `language model`
+
 [23-09-20] [paper26]
 * Fine-Tuning Language Models from Human Preferences
 * `2020-01`
