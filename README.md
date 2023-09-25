@@ -4,8 +4,8 @@
 [2023-09-25][paper28]
 * Deep Reinforcement Learning　from Human Preferences
 * `NIPS 2017`
-* [paper](https://arxiv.org/abs/2009.01325)
-* [code](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
+* [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
+* [code](https://github.com/mrahtz/learning-from-human-preferences)
 * OpenAI, Google
 * `reinforcement learning`, `fine tuning`, `language model`
 
