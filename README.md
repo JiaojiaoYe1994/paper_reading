@@ -1,6 +1,14 @@
 # paper_reading
 
 ## 2023
+[2023-10-16][paper29]
+* DiffusionDet: Diffusion Model for Object Detection
+* `ICCV 2023` 
+* [paper](https://arxiv.org/abs/2211.09788)
+* [code](https://github.com/ShoufaChen/DiffusionDet)
+* The University of Hong Kong， Tencent AI Lab， Fudan University， Shanghai AI Laboratory
+* `diffusion model`, `object detection`
+
 [2023-09-25][paper28]
 * Deep Reinforcement Learning　from Human Preferences
 * `NIPS 2017`
