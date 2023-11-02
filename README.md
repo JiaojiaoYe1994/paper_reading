@@ -1,6 +1,14 @@
 # paper_reading
 
 ## 2023
+[2023-11-02][paper30]
+* Effective Data Augmentation With Diffusion Models
+* `ICCV 2023` 
+* [paper](https://arxiv.org/abs/2302.07944)
+* [code](https://github.com/brandontrabucco/da-fusion)
+* CMU
+* `diffusion model`, `computer vision`, `data augmentation`
+
 [2023-10-16][paper29]
 * DiffusionDet: Diffusion Model for Object Detection
 * `ICCV 2023` 
