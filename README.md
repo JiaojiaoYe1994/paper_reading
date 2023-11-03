@@ -1,6 +1,14 @@
 # paper_reading
 
 ## 2023
+
+[2023-11-03][paper31]
+* StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing
+* [paper](https://arxiv.org/pdf/2303.15649.pdf)
+* [code](https://github.com/sen-mao/StyleDiffusion)
+* UAB
+* `diffusion model`, `computer vision`, `image editing`
+
 [2023-11-02][paper30]
 * Effective Data Augmentation With Diffusion Models
 * `ICCV 2023` 
