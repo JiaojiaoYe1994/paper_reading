@@ -3,6 +3,12 @@
 ## 2023
 
 [2023-11-03][paper31]
+* Image retrieval outperforms diffusion models on data augmentation
+* `2023`
+* [paper](https://openreview.net/forum?id=xflYdGZMpv)
+*  `diffusion model`, `computer vision`, `information retrieval`
+
+[2023-11-03][paper31]
 * StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing
 * [paper](https://arxiv.org/pdf/2303.15649.pdf)
 * [code](https://github.com/sen-mao/StyleDiffusion)
