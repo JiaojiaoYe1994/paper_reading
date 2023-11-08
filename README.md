@@ -2,6 +2,20 @@
 
 ## 2023
 
+[2023-11-08][paper33]
+* Is Conditional Generative Modeling All You Need for Decision-Making?
+* `ICLR 2023`
+* * [paper](https://arxiv.org/pdf/2211.15657v3.pdf)
+* `diffusion model`, `reinforcement learning`
+  
+[2023-11-07][paper32]
+* Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling
+* `ICLR 2023`
+* [paper](https://arxiv.org/pdf/2301.12050.pdf)
+* [openreview](https://openreview.net/forum?id=Z_qiOvqvnBl&referrer=%5Bthe%20profile%20of%20Yejin%20Choi%5D(%2Fprofile%3Fid%3D~Yejin_Choi1))
+* University of California Irvine, Allen Institute for Artificial Intelligence, Paul G. Allen School of Computer Science
+* `reinforcement learning`, `LLM`, `world model`
+
 [2023-11-03][paper31]
 * Image retrieval outperforms diffusion models on data augmentation
 * `2023`
