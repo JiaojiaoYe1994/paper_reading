@@ -1,7 +1,15 @@
 # paper_reading
 
 ## 2023
-
+[2023-11-15][paper34]
+* Human motion diffusion model. 
+* `ICLR (2023)`
+* [paper](https://arxiv.org/abs/2209.14916)
+* [code](https://github.com/GuyTevet/motion-diffusion-model)
+* [demo](https://guytevet.github.io/mdm-page/)
+* Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, and Amit H Bermano. 2022.
+* `diffusion model`, `reinforcement learning`, `multi-modal learning`
+  
 [2023-11-08][paper33]
 * Is Conditional Generative Modeling All You Need for Decision-Making?
 * `ICLR 2023`
