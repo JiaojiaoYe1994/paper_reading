@@ -1,14 +1,16 @@
 # paper_reading
 
 ## 2023
+[2023-11-20][paper34]
+* Human motion diffusion model.
+
+  
 [2023-11-15][paper34]
-* Human motion diffusion model. 
-* `ICLR (2023)`
-* [paper](https://arxiv.org/abs/2209.14916)
-* [code](https://github.com/GuyTevet/motion-diffusion-model)
-* [demo](https://guytevet.github.io/mdm-page/)
-* Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, and Amit H Bermano. 2022.
-* `diffusion model`, `reinforcement learning`, `multi-modal learning`
+* Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms. 
+* `Springer Handbook of Reinforcement Learning and Control 2021`
+* [paper](https://link.springer.com/chapter/10.1007/978-3-030-60990-0_12)
+* Kaiqing Zhang, Zhuoran Yang, Tamer Başar
+* `reinforcement learning`, `survey`
   
 [2023-11-08][paper33]
 * Is Conditional Generative Modeling All You Need for Decision-Making?
