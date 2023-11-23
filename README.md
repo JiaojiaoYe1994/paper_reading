@@ -1,9 +1,15 @@
 # paper_reading
 
 ## 2023
-[2023-11-20][paper34]
-* Human motion diffusion model.
+[2023-11-23][paper36]
+* Inductive Representation Learning on Large Graphs
+* `Nips 2017`
+* [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)
+* William L. Hamilton, Rex Ying, Jure Leskovec, Stanford University
+* `Representation Learning`, `graph neural network`
 
+[2023-11-20][paper35]
+* Human motion diffusion model.
   
 [2023-11-15][paper34]
 * Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms. 
