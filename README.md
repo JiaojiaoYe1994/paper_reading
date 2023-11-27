@@ -1,6 +1,12 @@
 # paper_reading
 
 ## 2023
+[2023-11-27][paper37]
+* A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity
+* `2017`
+* [paper](https://arxiv.org/pdf/1707.09183.pdf)
+* `multi-agent reinforcement learning`, `survey`
+    
 [2023-11-23][paper36]
 * Inductive Representation Learning on Large Graphs
 * `Nips 2017`
