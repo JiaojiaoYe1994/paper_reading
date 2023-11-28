@@ -5,6 +5,7 @@
 * A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity
 * `2017`
 * [paper](https://arxiv.org/pdf/1707.09183.pdf)
+* Centrum Wiskunde & Informatica, Instituto Nacional de Astrof´ısica, Optica y Electr´onica, Puebla, M´exico
 * `multi-agent reinforcement learning`, `survey`
     
 [2023-11-23][paper36]
