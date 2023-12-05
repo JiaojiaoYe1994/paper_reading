@@ -1,6 +1,13 @@
 # paper_reading
 
 ## 2023
+[2023-12-04][paper38]
+* Multi-Agent Reinforcement Learning: Foundations and Modern Approaches
+* `2013`
+* [paper](https://www.marl-book.com/download/marl-book.pdf)
+* Stefano V. Albrecht, Filippos Christianos, Lukas Schäfer, The University of Edinburgh
+* `multi-agent reinforcement learning`, `survey`
+  
 [2023-11-27][paper37]
 * A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity
 * `2017`
