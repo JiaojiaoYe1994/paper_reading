@@ -1,6 +1,13 @@
 # paper_reading
 
 ## 2023
+[2023-12-06][paper39]
+* Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models
+* `2023`
+* [paper](https://arxiv.org/abs/2311.15908)
+* C Rota, M Buzzelli, J van de Weijer
+* `multi-agent reinforcement learning`, `survey`
+  
 [2023-12-04][paper38]
 * Multi-Agent Reinforcement Learning: Foundations and Modern Approaches
 * `2013`
