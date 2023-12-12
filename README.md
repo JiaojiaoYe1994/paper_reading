@@ -1,6 +1,13 @@
 # paper_reading
 
 ## 2023
+[2023-12-12][paper40]
+* Gemini: A Family of Highly Capable Multimodal Models
+* '2023'
+* [paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
+* Gemini Team, Google
+* `Multi-modal learning`, `LLM`
+
 [2023-12-06][paper39]
 * Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models
 * `2023`
