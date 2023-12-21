@@ -1,6 +1,13 @@
 # paper_reading
 
 ## 2023
+[2023-12-13][paper41]
+* MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation
+* 'CVPR 2023'
+* [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.html)
+* Ludan Ruan, Yiyang Ma, Huan Yang, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
+* `Diffusion Models`,`Multimodal learning`
+
 [2023-12-12][paper40]
 * Gemini: A Family of Highly Capable Multimodal Models
 * '2023'
