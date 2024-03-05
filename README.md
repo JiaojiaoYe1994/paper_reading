@@ -1,12 +1,40 @@
 # paper_reading
 
+## 2024
+[2023-03-1][paper4]
+* Multimodal Few-Shot Learning with Frozen Language Models
+* `Nips 2021`
+* [paper](https://arxiv.org/abs/2106.13884)
+* DeepMind
+* `Multimodal learning`, `Few-shot learning`
+
+[2023-03-1][paper3]  
+* Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments
+* `CVPR 2018 Spotlight`
+* [paper](https://arxiv.org/abs/1711.07280)
+* 1Australian National University, 2University of Adelaide 3Queensland University of Technology 4Macquarie University
+* `VLN`, `LLM`
+
+[2023-03-1][paper2]
+* Training language models to follow instructions with human feedback
+* 'Nips 2022'
+* [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
+* OpenAI
+* `Few-shot learning`, `LLM`, `RLHF`
+
+[2023-03-1][paper1]
+* Language Models are Few-Shot Learners
+* 'Nips 2020'
+* [paper](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+* `Few-shot learning`, `LLM`
+
 ## 2023
 [2023-12-13][paper41]
 * MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation
 * 'CVPR 2023'
 * [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.html)
 * Ludan Ruan, Yiyang Ma, Huan Yang, Huiguo He, Bei Liu, Jianlong Fu, Nicholas Jing Yuan, Qin Jin, Baining Guo
-* `Diffusion Models`,`Multimodal learning`
+* `Diffusion Models`, `Multimodal learning`
 
 [2023-12-12][paper40]
 * Gemini: A Family of Highly Capable Multimodal Models
